@@ -1,5 +1,4 @@
-# Battle-of-the-Isles
- Smaller scale game in the style of Travian.
+# ExpressJs setup sample
 
 ---
 
